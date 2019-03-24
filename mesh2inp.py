@@ -2,8 +2,9 @@
 # vim:fileencoding=utf-8:fdm=marker:ft=python
 #
 # Copyright © 2019 R.F. Smith <rsmith@xs4all.nl>
+# SPDX-License-Identifier: MIT
 # Created: 2019-03-10T17:41:26+0100
-# Last modified: 2019-03-14T23:01:11+0100
+# Last modified: 2019-03-24T23:07:56+0100
 """Convert a mesh file to Calculix/Abaqus input data.
 
 Requires three filenames:
